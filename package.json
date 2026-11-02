@@ -1,0 +1,30 @@
+{
+  "name": "privacyguard",
+  "version": "2.0.0",
+  "description": "Automated GDPR, CCPA/CPRA & Security Compliance Scanner with Playwright & Client-Ready Reports",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "build": "echo 'No build step required for static frontend'"
+  },
+  "keywords": [
+    "gdpr",
+    "ccpa",
+    "cpra",
+    "compliance",
+    "cookie-scanner",
+    "security-headers",
+    "playwright",
+    "pdfkit",
+    "audit",
+    "devsecops"
+  ],
+  "author": "Akhil Binu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "pdfkit": "^0.16.0",
+    "playwright": "^1.49.1"
+  }
+}

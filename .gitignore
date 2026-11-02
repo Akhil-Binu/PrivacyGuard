@@ -1,0 +1,7 @@
+node_modules/
+.vercel
+.env
+*.log
+npm-debug.log*
+report-test.pdf
+headers.txt
