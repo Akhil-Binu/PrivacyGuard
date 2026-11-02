@@ -225,7 +225,7 @@ function EmptyState({ onScan, onDemo }) {
             </div>
             <div className="font-semibold text-sm mb-1 text-slate-800">Cookies & HTML5 Storage</div>
             <div className="text-xs text-slate-500 leading-relaxed">
-              Inventories cookies, Secure/HttpOnly flags, lifespan >13mo, plus localStorage tracking keys.
+              Inventories cookies, Secure/HttpOnly flags, lifespan over 13 months, plus localStorage tracking keys.
             </div>
           </div>
           <div className="bg-white/80 border border-slate-200 rounded-xl p-4 shadow-sm">
