@@ -3,9 +3,12 @@
 > **Automated GDPR, CCPA/CPRA, and HTTP Security Compliance Scanner** powered by headless Playwright browser automation, deep cookie and HTML5 Web Storage telemetry, consent verification, and executive PDF/CSV report generation.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success?logo=vercel)](https://privacyguard-pi.vercel.app)
 [![Node Version](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![Playwright](https://img.shields.io/badge/Engine-Playwright%20Chromium-orange.svg)](https://playwright.dev/)
 [![Compliance](https://img.shields.io/badge/Compliance-GDPR%20%7C%20CCPA%20%7C%20ePrivacy-blueviolet.svg)](#regulatory-alignment)
+
+🔗 **Live Deployment:** [https://privacyguard-pi.vercel.app](https://privacyguard-pi.vercel.app)
 
 ---
 
