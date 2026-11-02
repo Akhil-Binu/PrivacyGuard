@@ -22,6 +22,7 @@
   ],
   "author": "Akhil Binu",
   "license": "MIT",
+  "allowScripts": {},
   "dependencies": {
     "express": "^4.21.2",
     "pdfkit": "^0.16.0",
